@@ -76,15 +76,9 @@ This dashboard aggregates metrics from multiple social media platforms such as *
 
 6. 📸 Dashboard Preview
 
+     https://github.com/Nazarin621/Social-Media-Dashboard/blob/main/social%20media%20dashboard.pbix
 
 
 
 
 
-
-
-
-
-> “An interactive Power BI dashboard for tracking social media marketing performance across platforms, including engagement, reach, and audience growth.”
-
-I can generate that plus a `repository.json` example (for GitHub display) if you want.
