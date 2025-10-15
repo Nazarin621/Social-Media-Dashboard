@@ -34,25 +34,25 @@ This dashboard aggregates metrics from multiple social media platforms such as *
        * Shows daily growth in followers during the campaign period.
        * Highlights peak performance dates.
 
-   2. Likes by Social Media Platform (Pie Chart)
+    2. Likes by Social Media Platform (Pie Chart)
 
        * Compares engagement levels across platforms like Instagram, TikTok, and YouTube.
 
-   3. Follows vs Hashtag Performance (Combo Chart)
+    3. Follows vs Hashtag Performance (Combo Chart)
 
-      * Visualizes the relationship between hashtag use and new followers gained.
+       * Visualizes the relationship between hashtag use and new followers gained.
 
     4. Hashtag Count and Performance (Line & Bar Chart)
-
-      * Analyzes which hashtags contributed most to impressions and engagement.
+ 
+       * Analyzes which hashtags contributed most to impressions and engagement.
 
     5. Impressions by Profile Visits (Area Chart)
 
-      * Correlates reach (impressions) with active audience behavior (visits).
+       * Correlates reach (impressions) with active audience behavior (visits).
 
     6. Likes by Profile Visits (Horizontal Bar Chart)
 
-      * Reveals how audience engagement scales with profile interest.
+       * Reveals how audience engagement scales with profile interest.
 
 4. 🌍 Filters & Interactivity
 
